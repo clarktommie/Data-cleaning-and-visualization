@@ -69,12 +69,3 @@ These results suggest that the model performs robustly but may slightly overfit 
 - Model performance evaluation using R², MSE, and RMSE.
 
 This project demonstrates my ability to build, evaluate, and refine predictive models, leveraging modern machine learning techniques. The insights gained can be valuable for HR departments and financial analysts when determining fair compensation based on employee characteristics.
-
-## Project Report
-A detailed project report summarizing the methodology, analysis, and findings is available as a PDF. You can view it here:
-[Project Report (PDF)](./project_report.pdf)
-
-## How to Run the Code
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/clarktommie/Salary-Prediction-Model-Analysis.git
