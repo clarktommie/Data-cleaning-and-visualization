@@ -37,6 +37,8 @@ A correlation matrix was generated to examine relationships between features and
 - Years of experience showed a moderate positive correlation (0.43) with total yearly compensation.
 - Job titles such as Software Engineering Manager and Technical Program Manager had moderate correlations with total compensation.
 
+  ![image](https://github.com/user-attachments/assets/0d6189d5-b18d-4f95-ac5d-6a2d56c1688d)
+
 ## Model Development
 Multiple machine learning models were developed to predict total yearly compensation. The models were evaluated using metrics such as R-squared (R²), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 
