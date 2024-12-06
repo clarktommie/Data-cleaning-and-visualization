@@ -29,6 +29,8 @@ To enhance model performance and reduce complexity, feature selection methods we
 - **Forward Selection**: Used linear regression to add features sequentially.
 - **Recursive Feature Elimination (RFE)**: Eliminated non-important features using a decision tree regressor.
 
+  ![image](https://github.com/user-attachments/assets/c1ef3d37-99e7-4475-a005-a656ca1cca21)
+
 ## Correlation Analysis
 A correlation matrix was generated to examine relationships between features and the target variable. Key observations include:
 - Stock grant value and total yearly compensation had a strong positive correlation (0.87).
